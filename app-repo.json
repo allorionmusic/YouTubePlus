@@ -1,5 +1,5 @@
 {
-    "name": "YouTubePlus",
+    "name": "YouTube Plus",
     "identifier": "youtubeplus",
     "subtitle": "Created by dayanch96, modified by Mead",
     "description": "Created by dayanch96, modified by Mead",
@@ -11,7 +11,7 @@
     ],
     "apps": [
         {
-            "name": "YouTubePlus",
+            "name": "YouTube Plus",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Mead",
             "subtitle": "Created by dayanch96, modified by Mead",
