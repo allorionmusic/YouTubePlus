@@ -22,10 +22,10 @@
             "versions": [
                 {
                     "version": "19.39.1",
-                    "date": "2024-10-02",
-                    "localizedDescription": "Update YouTube to 19.39.1",
-                    "downloadURL": "https://files.catbox.moe/0o553a.ipa",
-                    "size": 116760862,
+                    "date": "2024-10-05",
+                    "localizedDescription": "(Fixed) Update YouTube to 19.39.1",
+                    "downloadURL": "https://files.catbox.moe/4kv2fs.ipa",
+                    "size": 112733769,
                     "minOSVersion": "15.0"
                 }
             ],
