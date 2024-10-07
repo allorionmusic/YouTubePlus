@@ -21,6 +21,15 @@
             "category": "utilities",
             "versions": [
                 {
+                    "version": "19.40.4",
+                    "date": "2024-10-07",
+                    "localizedDescription": "Update YouTube to 19.40.4",
+                    "downloadURL": "https://files.catbox.moe/sliazg.ipa",
+                    "size": 112813496,
+                    "minOSVersion": "15.0"
+                },
+
+                {
                     "version": "19.39.1",
                     "date": "2024-10-05",
                     "localizedDescription": "(Fixed) Update YouTube to 19.39.1",
